@@ -1,0 +1,4 @@
+Cinematica Inversa di un Braccio Robotico
+Questa directory contiene il codice di un algoritmo per la cinematica inversa di un braccio robotico con un numero arbitrario di giunti. Dato un punto nello spazio, il sistema calcola i valori dei giunti necessari per posizionare l'end-effector in quella posizione.
+
+Il progetto è stato inizialmente sviluppato su Google Colab, quindi il file main.py potrebbe richiedere modifiche per funzionare correttamente in altri ambienti. Tuttavia, il codice è strutturato per essere facilmente adattabile e può servire come riferimento per progetti simili, mettendo in evidenza le parti più rilevanti dell'implementazione.
